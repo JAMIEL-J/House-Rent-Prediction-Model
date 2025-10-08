@@ -58,7 +58,7 @@ house-rent-prediction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/house-rent-prediction.git
+git clone https://github.com/yourusername/House-Rent-Prediction-Model.git
 cd house-rent-prediction
 
 # Install dependencies
@@ -73,9 +73,9 @@ GitHub:https://github.com/JAMIEL-J
 
 ---
 
-Let me know if you'd like this customized with your actual metrics, dataset source, or a polished LinkedIn caption for sharing.
 
-
+
+
 
 
 
