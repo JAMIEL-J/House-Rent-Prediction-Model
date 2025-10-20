@@ -45,11 +45,13 @@ This project aims to estimate rental prices using historical housing data. It in
 - Git & GitHub
 
 ## 📁 Folder Structure
-house-rent-prediction/
- ├── data/            # Raw and cleaned datasets 
- ├── notebooks/       # EDA and model development
- ├── requirements.txt # Dependencies 
- ├── README.md        # Project documentation
+
+house-rent-prediction/  
+│  
+├── data/               # Raw and cleaned datasets  
+├── main.ipynb          # EDA and model development notebook  
+├── requirements.txt    # Dependencies and package list  
+└── README.md           # Project documentation
 
 
 ---
